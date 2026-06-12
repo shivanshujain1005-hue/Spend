@@ -1,0 +1,13 @@
+venv/
+__MACOSX/
+.DS_Store
+expense-tracker/venv/
+expense-tracker/__pycache__/
+*.pyc
+*.pyo
+.env
+expense-tracker/expense_tracker.db
+expense-tracker/database.db
+.pytest_cache/
+.claude/
+.gemini/
