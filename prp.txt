@@ -1,0 +1,19 @@
+I have an HTML file located at @templates/base.html.
+
+Please update the footer section by adding two links:
+
+Privacy Policy
+Terms and Conditions
+
+Requirements:
+
+Add these links in the existing footer without breaking the current layout or styling.
+Follow the existing HTML structure and CSS classes used in the footer.
+If similar footer links already exist, keep the design consistent.
+Generate the complete updated footer code and clearly indicate where the changes were made.
+If the footer uses a navigation list (<ul>, <nav>, etc.), place the new links appropriately within that structure.
+Use the following URLs:
+Privacy Policy: /privacy-policy
+Terms and Conditions: /terms-and-conditions
+
+File to modify: @templates/base.html
