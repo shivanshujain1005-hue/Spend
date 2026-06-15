@@ -11,3 +11,4 @@ expense-tracker/database.db
 .pytest_cache/
 .claude/
 .gemini/
+hero.jpeg
